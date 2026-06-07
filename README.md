@@ -45,6 +45,10 @@ The user interface and visual design were primarily developed by my teammate.
 
 <img width="1882" height="896" alt="image" src="https://github.com/user-attachments/assets/e297216a-bd15-45e3-a0fa-6c2e2366ef3c" />
 
+<img width="1906" height="910" alt="image" src="https://github.com/user-attachments/assets/2d319d02-05ff-41b3-82fb-fa0f88a72b2f" />
+
+<img width="1896" height="905" alt="image" src="https://github.com/user-attachments/assets/dc187fa0-af17-4aa5-9313-57faec2b5eee" />
+
 
 ## Installation
 
