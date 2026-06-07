@@ -1,6 +1,6 @@
 # Real Estate Management System
 
-Academic project developed by a team of two students.
+Developed as part of a Systems Analysis degree program by a team of two students.
 
 ## Features
 
@@ -9,6 +9,17 @@ Academic project developed by a team of two students.
 - CRUD operations
 - PostgreSQL database
 - Image upload
+
+## My Role
+
+My main responsibilities included:
+
+- Database integration
+- Authentication system
+- CRUD functionality
+- Backend business logic
+
+The user interface and visual design were primarily developed by my teammate.
 
 ## Technologies
 
@@ -35,12 +46,14 @@ Academic project developed by a team of two students.
 <img width="1882" height="896" alt="image" src="https://github.com/user-attachments/assets/e297216a-bd15-45e3-a0fa-6c2e2366ef3c" />
 
 
-## My Contribution
+## Installation
 
-- Database integration
-- Authentication system
-- CRUD functionality
+1. Clone the repository
+2. Create a PostgreSQL database
+3. Configure database credentials
+4. Import the SQL schema
+5. Run the project on a PHP server
 
 ## Live Demo
 
-https://c2790799.ferozo.com/lean/tercero/inmobiliaria/index.php
+🔗 https://c2790799.ferozo.com/lean/tercero/inmobiliaria/index.php
