@@ -20,6 +20,10 @@ Academic project developed by a team of two students.
 
 ## Screenshots
 
+<img width="1908" height="911" alt="image" src="https://github.com/user-attachments/assets/d58f7594-c567-4294-8f88-b80df3af7fcd" />
+
+<img width="1909" height="915" alt="image" src="https://github.com/user-attachments/assets/cc52521b-cafd-4f03-b6a8-3538778f0ade" />
+
 <img width="1896" height="910" alt="image" src="https://github.com/user-attachments/assets/95ef081a-b2a5-421e-afba-6410ca74557f" />
 
 <img width="1886" height="913" alt="image" src="https://github.com/user-attachments/assets/28529b90-51e7-4cb1-b3c9-64c72721ed05" />
